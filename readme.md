@@ -25,3 +25,9 @@ npm start
  1.- DELETE 0
  2.- EXIST 1
 //
+
+# Config DB
+dbName=conauto
+user=root
+password=''
+por=t 3306
